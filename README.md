@@ -31,29 +31,3 @@ The mod is a backport of the original Enchanting Infuser mod from newer Minecraf
 2. Download the `.jar` file from [CurseForge](https://legacy.curseforge.com/minecraft/mc-mods/enchanting-infuser-backport)
 3. Place it in your `.minecraft/mods` folder
 4. Launch the game and enjoy!
-
-## 🔨 Crafting Recipes
-
-### Enchanting Infuser
-![Enchanting Infuser Recipe](https://i.imgur.com/placeholder.png)
-
-- 1x Enchanting Table
-- 4x Obsidian
-- 2x Diamond
-- 1x Book
-
-### Advanced Enchanting Infuser
-![Advanced Enchanting Infuser Recipe](https://i.imgur.com/placeholder.png)
-
-- 1x Enchanting Infuser
-- 4x Obsidian
-- 1x Nether Star
-- 1x Diamond Block
-
-## 🛠️ Building from Source
-
-```bash
-git clone https://github.com/Steparm/EnchantingInfuserBackport.git
-cd EnchantingInfuserBackport
-gradlew setupDecompWorkspace
-gradlew build
