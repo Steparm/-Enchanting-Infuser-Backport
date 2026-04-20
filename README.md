@@ -1,9 +1,14 @@
 # Enchanting Infuser Backport
 
+# Enchanting Infuser Backport
+
 [![CurseForge](https://img.shields.io/badge/CurseForge-Download-orange?logo=curseforge)](https://legacy.curseforge.com/minecraft/mc-mods/enchanting-infuser-backport)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Backport of the **Enchanting Infuser** mod by [Fuzs](https://www.curseforge.com/members/fuzs_) to Minecraft **1.12.2**.
+**Backport authors:** Steparm_tesst, SHEG1_Plus  
+**Original mod by:** [Fuzs](https://www.curseforge.com/members/fuzs_)
+
+Backport of the **Enchanting Infuser** mod to Minecraft **1.12.2**.
 
 ## 📖 About
 
