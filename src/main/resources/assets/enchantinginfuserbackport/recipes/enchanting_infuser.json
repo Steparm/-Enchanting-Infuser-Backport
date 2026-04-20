@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " B ",
+    "ACA",
+    "CDC"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:book"
+    },
+    "A": {
+      "item": "deeperdepths:material",
+      "data": 1
+    },
+    "C": {
+      "item": "nb:cry_obi"
+    },
+    "D": {
+      "item": "minecraft:enchanting_table"
+    }
+  },
+  "result": {
+    "item": "enchantinginfuser:enchanting_infuser"
+  }
+}

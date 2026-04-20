@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " B ",
+    "ACA",
+    "CDC"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:book"
+    },
+    "A": {
+      "item": "nb:netherite_ingot"
+    },
+    "C": {
+      "item": "nb:cry_obi"
+    },
+    "D": {
+      "item": "enchantinginfuser:enchanting_infuser"
+    }
+  },
+  "result": {
+    "item": "enchantinginfuser:advanced_enchanting_infuser"
+  }
+}

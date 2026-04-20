@@ -1,0 +1,10 @@
+{
+  "parent": "enchantinginfuserbackport:custom/advanced_enchanting_infuser5",
+  "textures": {
+    "all": "enchantinginfuserbackport:blocks/enchanting_infuser_bottom_netherite",
+    "particle": "enchantinginfuserbackport:blocks/enchanting_infuser_bottom_netherite",
+    "side": "enchantinginfuserbackport:blocks/enchanting_infuser_side_netherite",
+    "top": "enchantinginfuserbackport:blocks/enchanting_infuser_top_netherite",
+    "bottom": "enchantinginfuserbackport:blocks/enchanting_infuser_bottom_netherite"
+  }
+}

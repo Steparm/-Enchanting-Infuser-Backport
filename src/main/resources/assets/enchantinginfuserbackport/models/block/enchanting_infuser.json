@@ -1,0 +1,10 @@
+{
+  "parent": "enchantinginfuserbackport:custom/enchanting_infuser5",
+  "textures": {
+    "all": "enchantinginfuserbackport/enchanting_infuser_bottom_amethyst",
+    "particle": "enchantinginfuserbackport:blocks/enchanting_infuser_bottom_amethyst",
+    "side": "enchantinginfuserbackport:blocks/enchanting_infuser_side_amethyst",
+    "top": "enchantinginfuserbackport:blocks/enchanting_infuser_top_amethyst",
+    "bottom": "enchantinginfuserbackport:blocks/enchanting_infuser_bottom_amethyst"
+  }
+}
