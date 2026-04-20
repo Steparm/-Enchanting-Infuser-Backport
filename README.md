@@ -1,7 +1,5 @@
 # Enchanting Infuser Backport
 
-# Enchanting Infuser Backport
-
 [![CurseForge](https://img.shields.io/badge/CurseForge-Download-orange?logo=curseforge)](https://legacy.curseforge.com/minecraft/mc-mods/enchanting-infuser-backport)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
