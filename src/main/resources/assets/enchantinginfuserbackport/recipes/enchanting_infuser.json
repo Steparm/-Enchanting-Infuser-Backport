@@ -1,0 +1,26 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    " B ",
+    "ACA",
+    "CDC"
+  ],
+  "key": {
+    "B": {
+      "type": "minecraft:book",
+    },
+    "A": {
+      "type": "forge:ore_dict",
+      "ore": "gemAmethyst"
+    },
+    "C": {
+      "item": "nb:cry_obi"
+    },
+    "D": {
+      "item": "minecraft:enchanting_table"
+    }
+  },
+  "result": {
+    "item": "enchantinginfuserbackport:enchanting_infuser"
+  }
+}

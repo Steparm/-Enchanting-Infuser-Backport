@@ -1,0 +1,26 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    " B ",
+    "ACA",
+    "CDC"
+  ],
+  "key": {
+    "B": {
+      "type": "minecraft:book",
+    },
+    "A": {
+      "type": "forge:ore_dict",
+      "ore": "ingotNetherite"
+    },
+    "C": {
+      "item": "nb:cry_obi"
+    },
+    "D": {
+      "item": "enchantinginfuserbackport:enchanting_infuser"
+    }
+  },
+  "result": {
+    "item": "enchantinginfuserbackport:advanced_enchanting_infuser"
+  }
+}
